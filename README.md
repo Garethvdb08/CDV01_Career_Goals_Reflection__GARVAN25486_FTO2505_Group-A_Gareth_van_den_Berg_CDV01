@@ -1,15 +1,26 @@
+### Career Goals Reflection
+
 ### Personal Information
 
 - **Name: Gareth van den Berg**
 - **Date: 27 May 2025**
-- **Current Role/Position: Junior Web Developer**
+- **Current Role/Position: Junior Web Developer(in training)**
 - **Field of Interest: Web Development**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
 
-   - List your current skills and areas of expertise.
+   **Basic HTML and CSS for frontend web development.**
+   **Familiarity with Git and Github for version control.**
+   **Problem solving skills and logical thinking developed through coding exercises.**
+   **Ability to work independently and self learn new technologies.**
+
+   **Skills to develop or improve:**
+   **Strengthen understanding of CSS**
+   **Soft skills like communication and teamwork**
+   **Basic HTML and CSS for frontend web development.**
+
    - Identify skills you need to develop or improve.
 
 2. **Interests and Values**:
