@@ -16,19 +16,23 @@
 - Problem solving skills and logical thinking developed through coding exercises.
 - Ability to work independently and self learn new technologies.
 
-  **Skills to develop or improve:**
+_Skills to develop or improve:_
 
 - Strengthen understanding of CSS.
 - Soft skills like communication and teamwork.
 
 2. **Interests and Values**:
-   _Key interest related to my career:_
-   - Continuous growth through coding challenges and real world projects.
-   - Learnig new web technologies and frameworks.
-     _Value important to me in a work enviroment:_
-   - A supportive and inclusive team culture.
-   - Flexibility in work hours and remote working options.
-   - Clear communication and constructive feedback.
+
+_Key interests related to my career:_
+
+- Continuous growth through coding challenges and real world projects.
+- Learnig new web technologies and frameworks.
+
+_Values important to me in a work enviroment:_
+
+- A supportive and inclusive team culture.
+- Flexibility in work hours and remote working options.
+- Clear communication and constructive feedback.
 
 ### Part 2: Career Exploration Insights
 
