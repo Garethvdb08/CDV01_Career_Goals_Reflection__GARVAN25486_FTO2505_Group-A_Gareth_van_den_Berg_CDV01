@@ -13,8 +13,8 @@
 
 - Basic HTML and CSS for frontend web development.
 - Familiarity with Git and Github for version control.
-- Problem solving skills and logical thinking developed through coding exercises.
-- Ability to work independently and self learn new technologies.
+- Problem-solving skills and logical thinking developed through coding exercises.
+- Ability to work independently and self-learn new technologies.
 
 _Skills to develop or improve:_
 
@@ -25,10 +25,10 @@ _Skills to develop or improve:_
 
 _Key interests related to my career:_
 
-- Continuous growth through coding challenges and real world projects.
-- Learnig new web technologies and frameworks.
+- Continuous growth through coding challenges and real-world projects.
+- Learning new web technologies and frameworks.
 
-_Values important to me in a work enviroment:_
+_Values important to me in a work environment:_
 
 - A supportive and inclusive team culture.
 - Flexibility in work hours and remote working options.
@@ -53,7 +53,7 @@ _Values important to me in a work enviroment:_
 
    _How these roles align with my skills interests, and values:_
 
-   - I value continues learning, and these roles constantly evolve, offering lots of room to grow and learn.
+   - I value continuous learning, and these roles constantly evolve, offering lots of room to grow and learn.
    - I enjoy working independetly and being trusted to take initiative, which aligns with freelance and remote work settings.
 
    _Gaps or areas for further exploration:_
@@ -66,9 +66,9 @@ _Values important to me in a work enviroment:_
 
    _Specific_: Secure an internship or junior role in the web development field.
 
-   _Measurable_: Apple to at least 10 positions and attend interviews.
+   _Measurable_: Apply to at least 10 positions and attend interviews.
 
-   _Achievable_: With my skills, studies, and portfolio, I will be competitive., relevant, and time-bound goals.
+   _Achievable_: With my skills, studies, and portfolio, I will be competitive.
 
    _Relevant_: Hands-on experience will help me grow and transition into full-time employment.
 
@@ -87,30 +87,27 @@ _Values important to me in a work enviroment:_
 
    - Build a Portfolio Website: _Create and maintain a personal website to showcase my skills, projects, and growth as a web developer._
    - Apply for Internships or Junior Roles: _Set a goal to apply to at least 10 relevant positions over the next few months._
-   - Join a Developer Community: _Being involed and staying engaged in groups like Dev.to or Stack Overflow to learn from others and grow my network_
+   - Join a Developer Community: _Being involved and staying engaged in groups like Dev.to or Stack Overflow to learn from others and grow my network_
 
 2. **Preparation for Long-term Goals**:
 
-   - Freelance Readiness: _Understand pricing, contacts, client communication, and basic business principles for freelance work._
+   - Freelance Readiness: _Understand pricing, contracts, client communication, and basic business principles for freelance work._
    - Improve Soft Skills: _Practice clear communication, project planning, and time management._
-   - Strengthen techinal skills: _Learn advanced CSS, responsive design, JavaScripts frameworks (React, Vue), and basic backend skills (Node.js, API'S)_
+   - Strengthen technical skills: _Learn advanced CSS, responsive design, JavaScript frameworks (React, Vue), and basic backend skills (Node.js, APIs)_
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
 
-   - Identify potential obstacles or challenges in reaching your goals.
-   - Consider strategies to overcome these challenges.
+   - As someone still in training, my limited real-world experience might make it harder to stand out when applying for jobs.
+
+   - Feeling like I'm not "good enough" may affect my confidence during interviews or when applying for opportunities.
+
+   - It can be challenging to stay consistent with learning and applications, especially when progress feels slow.
 
 2. **Opportunities for Growth**:
 
-   - Highlight any opportunities you can leverage for career growth.
-   - Include networking, mentorship, or educational opportunities.
-
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+   - Engaging in spaces like GitHub, Reddit, Discord servers, or LinkedIn to network, learn from others, and discover job or project opportunities.
+   - Internships and Entry-level job: Companies often look for junior developers or interns.
+   - Freelancing on Websites like Fiverr or Upwork could offer small projects to build real-world experience and earn some income while still learning.
+   - Mentorship and Learning from experienced people and getting feedback, encouragement, and guidance can greatly speed up my learning.
