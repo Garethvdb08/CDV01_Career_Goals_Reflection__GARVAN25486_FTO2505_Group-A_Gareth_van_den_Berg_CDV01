@@ -51,7 +51,7 @@ _Values important to me in a work enviroment:_
 
 2. **Alignment with Personal Profile**:
 
-   _How these roles align with my skillsm interests, and values:_
+   _How these roles align with my skills interests, and values:_
 
    - I value continues learning, and these roles constantly evolve, offering lots of room to grow and learn.
    - I enjoy working independetly and being trusted to take initiative, which aligns with freelance and remote work settings.
@@ -64,13 +64,22 @@ _Values important to me in a work enviroment:_
 
 1. **Short-term Goals** (Next 1-2 years):
 
-   - List your specific, measurable, achievable, relevant, and time-bound goals.
-   - Explain the rationale behind each goal.
+   _Specific_: Secure an internship or junior role in the web development field.
+
+   _Measurable_: Apple to at least 10 positions and attend interviews.
+
+   _Achievable_: With my skills, studies, and portfolio, I will be competitive., relevant, and time-bound goals.
+
+   _Relevant_: Hands-on experience will help me grow and transition into full-time employment.
+
+   _Time-bound_: Secure a position within 1-2 years.
 
 2. **Long-term Goals** (3-5 years and beyond):
 
-   - Outline your long-term career aspirations.
-   - Describe how these align with your interests and skills.
+   _Goal 1:_ Work for a company where I can grow and make meaningful contributions.
+
+   _Goal 2:_ Start a freelance side hustle or small business building websites for local clients.
+   This supports my long-term goal of having flexibility and potentially working independently.
 
 ### Part 4: Action Plan
 
