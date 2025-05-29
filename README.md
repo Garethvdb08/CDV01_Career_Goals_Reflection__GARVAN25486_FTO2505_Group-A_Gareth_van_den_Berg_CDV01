@@ -38,13 +38,27 @@ _Values important to me in a work enviroment:_
 
 1. **Industries and Roles Explored**:
 
-   - List the industries or roles you have researched.
-   - Note any particular areas that piqued your interest.
+   _Industries/roles researched:_
+
+   - Web Development (Frontend & Full Stack)
+   - Software development
+   - Freelancing and remote tech work
+
+   _Areas that piqued my interest._
+
+   - Frontend development: I enjoy designing and building web pages that focus on user experience.
+   - Remote/freelance work: Being able to work independently while still contributing to real-world projects sounds exciting and aligns with my personal working style.
 
 2. **Alignment with Personal Profile**:
 
-   - Reflect on how these industries/roles align with your skills, interests, and values.
-   - Identify any gaps or areas for further exploration.
+   _How these roles align with my skillsm interests, and values:_
+
+   - I value continues learning, and these roles constantly evolve, offering lots of room to grow and learn.
+   - I enjoy working independetly and being trusted to take initiative, which aligns with freelance and remote work settings.
+
+   _Gaps or areas for further exploration:_
+
+   - I need to strengthen my CSS skills.
 
 ### Part 3: SMART Career Goals
 
