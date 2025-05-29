@@ -85,13 +85,15 @@ _Values important to me in a work enviroment:_
 
 1. **Steps to Achieve Short-term Goals**:
 
-   - Detail specific actions or steps needed to achieve each short-term goal.
-   - Include any resources or support required.
+   - Build a Portfolio Website: _Create and maintain a personal website to showcase my skills, projects, and growth as a web developer._
+   - Apply for Internships or Junior Roles: _Set a goal to apply to at least 10 relevant positions over the next few months._
+   - Join a Developer Community: _Being involed and staying engaged in groups like Dev.to or Stack Overflow to learn from others and grow my network_
 
 2. **Preparation for Long-term Goals**:
 
-   - Describe the preparations or groundwork necessary for your long-term aspirations.
-   - Consider additional skills, experiences, or qualifications needed.
+   - Freelance Readiness: _Understand pricing, contacts, client communication, and basic business principles for freelance work._
+   - Improve Soft Skills: _Practice clear communication, project planning, and time management._
+   - Strengthen techinal skills: _Learn advanced CSS, responsive design, JavaScripts frameworks (React, Vue), and basic backend skills (Node.js, API'S)_
 
 ### Part 5: Reflection on Challenges and Opportunities
 
